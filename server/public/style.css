@@ -1,0 +1,263 @@
+@font-face {
+	font-family: 'CALF';
+	src:url('fonts/CALF.eot?c6xf86');
+	src:url('fonts/CALF.eot?c6xf86#iefix') format('embedded-opentype'),
+		url('fonts/CALF.ttf?c6xf86') format('truetype'),
+		url('fonts/CALF.woff?c6xf86') format('woff'),
+		url('fonts/CALF.svg?c6xf86#CALF') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'CALF';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-referentiel:before {
+	content: "\e808";
+}
+.icon-userS:before {
+	content: "\e803";
+}
+.icon-communication:before {
+	content: "\e804";
+}
+.icon-editique:before {
+	content: "\e805";
+}
+.icon-Globe:before {
+	content: "\e806";
+}
+.icon-habilitations:before {
+	content: "\e807";
+}
+.icon-frais:before {
+	content: "\e800";
+}
+.icon-refund:before {
+	content: "\e801";
+}
+.icon-TVA:before {
+	content: "\e802";
+}
+.icon-Picture:before {
+	content: "\e600";
+}
+.icon-UploadLogo:before {
+	content: "\e601";
+}
+.icon-Add:before {
+	content: "\e602";
+}
+.icon-Amount:before {
+	content: "\e603";
+}
+.icon-Archive:before {
+	content: "\e604";
+}
+.icon-Assurances:before {
+	content: "\e605";
+}
+.icon-Ban:before {
+	content: "\e606";
+}
+.icon-Bareme:before {
+	content: "\e607";
+}
+.icon-Bin:before {
+	content: "\e608";
+}
+.icon-Calendar:before {
+	content: "\e609";
+}
+.icon-Check:before {
+	content: "\e60a";
+}
+.icon-Check2:before {
+	content: "\e60b";
+}
+.icon-Circle:before {
+	content: "\e60c";
+}
+.icon-Clip:before {
+	content: "\e60d";
+}
+.icon-Clock:before {
+	content: "\e60e";
+}
+.icon-Convention:before {
+	content: "\e60f";
+}
+.icon-Delete:before {
+	content: "\e610";
+}
+.icon-Document:before {
+	content: "\e611";
+}
+.icon-Down1:before {
+	content: "\e612";
+}
+.icon-Down2:before {
+	content: "\e613";
+}
+.icon-Duplicate:before {
+	content: "\e614";
+}
+.icon-EarphonesMicrophone:before {
+	content: "\e615";
+}
+.icon-Edit:before {
+	content: "\e616";
+}
+.icon-Envelope:before {
+	content: "\e617";
+}
+.icon-EQ:before {
+	content: "\e618";
+}
+.icon-Eye:before {
+	content: "\e619";
+}
+.icon-Folder:before {
+	content: "\e61a";
+}
+.icon-handle:before {
+	content: "\e61b";
+}
+.icon-Home:before {
+	content: "\e61c";
+}
+.icon-Image:before {
+	content: "\e61d";
+}
+.icon-In:before {
+	content: "\e61e";
+}
+.icon-Info:before {
+	content: "\e61f";
+}
+.icon-Left1:before {
+	content: "\e620";
+}
+.icon-Left2:before {
+	content: "\e621";
+}
+.icon-Mail:before {
+	content: "\e622";
+}
+.icon-Message:before {
+	content: "\e623";
+}
+.icon-moins:before {
+	content: "\e624";
+}
+.icon-Note:before {
+	content: "\e625";
+}
+.icon-Notepad:before {
+	content: "\e626";
+}
+.icon-Out:before {
+	content: "\e627";
+}
+.icon-Partenaires:before {
+	content: "\e628";
+}
+.icon-PDF:before {
+	content: "\e629";
+}
+.icon-Perimetre:before {
+	content: "\e62a";
+}
+.icon-Phone:before {
+	content: "\e62b";
+}
+.icon-plus:before {
+	content: "\e62c";
+}
+.icon-Pointer:before {
+	content: "\e62d";
+}
+.icon-Printer:before {
+	content: "\e62e";
+}
+.icon-Profile:before {
+	content: "\e62f";
+}
+.icon-Provider:before {
+	content: "\e630";
+}
+.icon-Question:before {
+	content: "\e631";
+}
+.icon-Replace:before {
+	content: "\e632";
+}
+.icon-Ribbon:before {
+	content: "\e633";
+}
+.icon-Right1:before {
+	content: "\e634";
+}
+.icon-Right2:before {
+	content: "\e635";
+}
+.icon-Search:before {
+	content: "\e636";
+}
+.icon-Settings:before {
+	content: "\e637";
+}
+.icon-SMS:before {
+	content: "\e638";
+}
+.icon-Stamp:before {
+	content: "\e639";
+}
+.icon-Statscopy:before {
+	content: "\e63a";
+}
+.icon-Stats:before {
+	content: "\e63b";
+}
+.icon-SupprimerTranche:before {
+	content: "\e63c";
+}
+.icon-Tarification:before {
+	content: "\e63d";
+}
+.icon-Tranche:before {
+	content: "\e63e";
+}
+.icon-Up1:before {
+	content: "\e63f";
+}
+.icon-Up2:before {
+	content: "\e640";
+}
+.icon-User:before {
+	content: "\e641";
+}
+.icon-Validate:before {
+	content: "\e642";
+}
+.icon-Warning:before {
+	content: "\e643";
+}
+.icon-checkbox_OFF:before {
+	content: "\e644";
+}
+.icon-checkbox_ON:before {
+	content: "\e645";
+}
+
