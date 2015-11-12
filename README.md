@@ -39,3 +39,7 @@ activator run
 ```
 Play server runs application by default at : http://localhost:9000
 
+
+## Output
+
+![alt tag](./Output.JPG)
