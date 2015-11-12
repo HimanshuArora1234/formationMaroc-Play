@@ -1,39 +1,39 @@
-## Play Scala practice project
+# Play Scala practice project
 
-# Command to be executed on ./client 
+## Command to be executed on ./client 
 
-# Install npm dependencies:
+## Install npm dependencies:
 ```
 npm install   
 ```
 
-# Build stylus:
+## Build stylus:
 ```
 npm run build-stylus
 ```
 
-# Watch stylus:
+## Watch stylus:
 ```
 npm run watch-stylus
 ```
 
-# Build js:
+## Build js:
 ```
 npm run build-js
 ```
 
-# Watch js:
+## Watch js:
 ```
 npm run watch-js
 ```
-# Command to be executed on ./server
+## Command to be executed on ./server
 
-# Compile:
+## Compile:
 ```
 activator compile
 ```
 
-# Run:
+## Run:
 ```
 activator run 
 ```
