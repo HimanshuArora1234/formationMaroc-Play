@@ -1,5 +1,11 @@
 # Play Scala practice project
 
+## Client side technologies
+Fluxx (implementation React), Abyssa (for routing), qajax (Asynchronous XHR library), JS (ES6), HTML5, CSS3 (Stylus) & NPM 
+
+## Server side technologies
+Play, Scala & Anorm (kind of an ORM for Scala)
+
 ## Command to be executed on ./client 
 
 ## Install npm dependencies:
