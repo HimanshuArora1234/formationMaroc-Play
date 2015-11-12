@@ -9,6 +9,10 @@ export default Store(on => {
     profils = data;
   });
 
+  on(types.UPDATE_PROFILS, data => {
+    profils = data;
+  });
+
   return {
     profils: () => profils
   };
