@@ -3,25 +3,21 @@
   "version": "1.0.0",
   "description": "List of NFC profiles, formation maroc",
   "author": "ARORA Himanshu",
-
   "scripts": {
-  "build-stylus": "stylus styl/index.styl -c -u ./node_modules/autoprefixer-stylus -o ../server/public/app.css",
-	"watch-stylus": "stylus -w -m styl/index.styl -u ./node_modules/autoprefixer-stylus -o ../server/public/app.css",
-
-	"watch-js": "watchify js/index.js -o ../server/public/app.js -v --debug",
-	"build-js": "browserify js/index.js -o ../server/public/app.js"
+    "build-stylus": "stylus styl/index.styl -c -u ./node_modules/autoprefixer-stylus -o ../server/public/app.css",
+    "watch-stylus": "stylus -w -m styl/index.styl -u ./node_modules/autoprefixer-stylus -o ../server/public/app.css",
+    "watch-js": "watchify js/index.js -o ../server/public/app.js -v --debug",
+    "build-js": "browserify js/index.js -o ../server/public/app.js"
   },
-
   "private": true,
-
   "browserify": {
     "transform": [
       "babelify"
     ]
   },
-
   "dependencies": {
     "abyssa": "7.0.1",
+    "babel-polyfill": "6.2.0",
     "fluxx": "0.4.0",
     "lodash": "3.9.1",
     "moment": "2.10.6",
